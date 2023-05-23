@@ -1,0 +1,65 @@
+:root {
+    --bkg_white: #FEF7F7;
+    --deep_purple: #8039b4;
+    --deep_blue: #4E39B4;
+    --cool_pink: #C31D6C;
+  }
+  
+  
+  .main-ctr {
+    padding: 0 20%;
+  }
+  
+  .top-ctr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0;
+  }
+  .middle-ctr {
+    display: flex;
+    padding: 0px 0;
+  }
+  
+  .title {
+    /*font-family: metropolissemi_bold;*/
+    font-size: 40px;
+    color: var(--deep_purple);
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+  
+  .button {
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+  }
+  
+  .button {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    padding: 0px 0px;
+    margin: 0 0px;
+    background-color: white;
+    /*color: white;*/
+  }
+
+  .button {
+    transition: transform 0.7s ease-in-out;
+  }
+  
+  .button:hover {
+    transform: scale(1.2);
+  }
+
+  img {
+    width: 200px;
+    height: 200px;
+  }
+
+  
+  .hidden {
+    display: none;
+  }  
