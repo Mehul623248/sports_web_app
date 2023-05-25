@@ -77,19 +77,19 @@
   .button:hover {
     transform: scale(1.2);
   }
-  #FA_Cup{
+  #Supercoppa_Italiana{
      width: 100px;
      height: 150px;
   }
-  #FA{
+  #SI{
     width: 100px;
     height: 150px;
   }
-  #EFL_Cup{
+  #Coppa_Italia{
     width: 100px;
     height: 150px;
  }
- #EFL{
+ #CI{
    width: 100px;
    height: 150px;
  }

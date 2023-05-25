@@ -77,20 +77,20 @@
   .button:hover {
     transform: scale(1.2);
   }
-  #FA_Cup{
-     width: 100px;
+  #Supercopa{
+     width: 150px;
      height: 150px;
   }
-  #FA{
-    width: 100px;
+  #SE{
+    width: 150px;
     height: 150px;
   }
-  #EFL_Cup{
-    width: 100px;
+  #Copa_Del_Rey{
+    width: 150px;
     height: 150px;
  }
- #EFL{
-   width: 100px;
+ #CDR{
+   width: 150px;
    height: 150px;
  }
 
